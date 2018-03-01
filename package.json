@@ -1,0 +1,22 @@
+{
+  "name": "berichtsheft",
+  "version": "1.0.0",
+  "description": "Erstellen und sammeln von Berichten für die Ausbildung",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/iseqin/Berichtsheft",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Sebasitan Schmidt",
+  "license": "MIT License",
+  "devDependencies": {
+    "electron": "~1.8.2"
+  }
+}
